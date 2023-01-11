@@ -1,1 +1,1 @@
-# CareerFoundrySQL
+Rockbuster Stealth LLC is a movie rental company that used to have stores around the world, management team is planning to use its existing movie licenses to launch an online video rental service i n order to stay competitive.
