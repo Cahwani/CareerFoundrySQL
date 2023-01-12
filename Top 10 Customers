@@ -1,4 +1,4 @@
-Query for top 10 customers
+Query for top 10 cities with top 10 customers.
 SELECT B.customer_id, B.first_name, B.last_name, D.city, E.country,
 SUM(A.amount) AS Total_Amount_Paid
 FROM customer B
