@@ -8,4 +8,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 **##Data**
 A relational database made up of 17 tables contatining data on film rentals, customers, actors, payments and more. 
 
-View the Tableau project here: https://public.tableau.com/app/profile/chipo.hwani/viz/RockbusterStealthLLC_16697104150930/RockbusterStealth
+View the Tableau project here: (https://public.tableau.com/app/profile/chipo.hwani/viz/RockbusterStealthLLC_16697104150930/RockbusterStealth)
